@@ -4,7 +4,7 @@
 //Array.find
 //Array.indexOf
 //Array.filter
-//
+
 
 const alligator = ["thick scales", 80, "4 foot tail", "rounded snout"];
 alligator.includes("thick scales"); // returns true
